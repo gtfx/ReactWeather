@@ -15,7 +15,7 @@ var About = (props) => {
 					<a href="https://facebook.github.io/react">React</a> This was the Javascript framework used.
 				</li>
 				<li>
-					<a href="htttp://openweathermap.org">Open Weather Map</a> - I used 
+					<a href="http://openweathermap.org">Open Weather Map</a> - I used 
 					Open weather Map to search for weather data by city name. 
 				</li>
 			</ul>
